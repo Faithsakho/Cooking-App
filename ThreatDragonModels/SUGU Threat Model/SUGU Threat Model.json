@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "SUGU Threat Model",
+    "owner": "Diene",
+    "description": "This is the dragon diagram for the threat model of SUGU system."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "SUGU diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
